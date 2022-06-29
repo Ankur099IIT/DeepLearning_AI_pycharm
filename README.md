@@ -1,2 +1,2 @@
 # DeepLearning_AI_pycharm
-It consists coursera DeepLearning.ai code written in Pycharm IDE
+It consists of all the coursera DeepLearning.ai course code written in Pycharm IDE
